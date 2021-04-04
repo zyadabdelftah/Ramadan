@@ -54,7 +54,7 @@ li:hover{
     width: 100%;
     background-position: center;
     background-size: cover;
-    background-image:linear-gradient(rgba(5, 5, 5, 0.75),rgba(5,1,0.75)), url(n.jpg);
+    background-image:linear-gradient(rgba(32,178,170),rgba(32,178,170)), url(n.jpg);
 }
 .contact{
     color: white;
