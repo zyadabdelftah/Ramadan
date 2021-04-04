@@ -54,16 +54,16 @@ li:hover{
     width: 100%;
     background-position: center;
     background-size: cover;
-    background-image:linear-gradient(rgba(5, 5, 5, 0.75),rgba(0,0,0,0.75)), url(n.jpg);
+    background-image:linear-gradient(rgba(5, 5, 5, 0.75),rgba(5,1,0.75)), url(n.jpg);
 }
 .contact{
     color: white;
     position: absolute;
  width: 100%;
  margin-top: 130;
-   font-size:40;
+   font-size:30;
   text-align: center;
-  letter-spacing: 2;
+  letter-spacing: 0.5;
 
   text-shadow:3px 3px red;
 
